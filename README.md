@@ -1,7 +1,7 @@
 # 🎬 CineMax - Cinema Website
 
 <div align="center">
-  <img src="/app/assets/cineMax.png" alt="CineMax Logo" width="200" height="auto" />
+  <img src="/app/assets/cineMax.png" alt="CineMax Logo"  />
 </div>
 
 
